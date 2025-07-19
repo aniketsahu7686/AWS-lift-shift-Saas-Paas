@@ -7,7 +7,7 @@ The VProfile application is deployed on AWS using a fully managed and scalable a
 
 
    
----------------------------------------------- 🚀 Application Deployment (PaaS) ---------------------------------------------
+---------------------------------------------- 🚀 Application Deployment (PaaS) --------------------------------------------
 The web application is deployed using Elastic Beanstalk, a Platform as a Service (PaaS) provided by AWS.
 
 It handles:
@@ -19,7 +19,7 @@ The application code is packaged as a Java WAR artifact and deployed to Tomcat v
 
 
 
-------------------------------------- 🔗 Backend Service Integration (Managed Services) ------------------------------------
+------------------------------------- 🔗 Backend Service Integration (Managed Services) ----------------------------------
 Amazon RDS (MySQL): Stores persistent application data.
 
 Amazon MQ (RabbitMQ): Manages message brokering between services.
