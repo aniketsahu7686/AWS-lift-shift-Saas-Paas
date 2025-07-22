@@ -1,3 +1,5 @@
+# AWS-lift-and-shift-vprofile using PAAS
+
 ------------------------------------------------------ 🧠 Project Summary ---------------------------------------------------
 This project involves deploying a full-stack Java-based web application called VProfile on AWS using modern DevOps and cloud-native architecture. It follows a refactored approach by replacing traditional EC2-based services with managed AWS services and deploying the application using Elastic Beanstalk (PaaS) for ease and scalability.
 
